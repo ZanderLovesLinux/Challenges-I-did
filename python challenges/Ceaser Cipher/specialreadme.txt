@@ -1,0 +1,1 @@
+LMAOOOO I WAS TOTALLY GUESSING FOR THE .removeprefix().removesuffix.... I HAD NO IDEA THAT WOULD WORK I JUST WAS LIKE "This is something python would have" and then i was like "in these prompts they do this sometimes" and so i tried it and it WORKED LMAOOO

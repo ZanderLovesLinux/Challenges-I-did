@@ -1,0 +1,15 @@
+Instructions
+Read a string (all lowercase letters, no spaces) and a shift number from input.
+
+Shift each letter forward in the alphabet by the shift amount. Wrap around from z back to a.
+
+Print the encrypted string.
+
+Input used in test:
+abc
+3
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+def
+Reason: a→d, b→e, c→f. Each letter shifted 3 positions forward.

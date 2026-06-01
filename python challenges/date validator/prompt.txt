@@ -1,0 +1,21 @@
+Instructions
+Read a day, month, and year from input (three lines).
+
+Print Valid if the date is valid, or Invalid if it is not.
+
+Rules:
+
+Month must be 1-12
+Day must be valid for the given month (e.g. April has 30 days, not 31)
+February has 28 days, or 29 in a leap year
+A leap year is divisible by 4, but not by 100, unless also divisible by 400
+Input used in test:
+29
+2
+2024
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+Valid
+Reason: 2024 is a leap year, so February has 29 days.
+
