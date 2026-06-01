@@ -1,0 +1,17 @@
+prompt:
+
+Instructions
+Read a number N from input.
+
+Calculate the sum: 1² + 2² + 3² + ... + N²
+
+Print the result:
+
+Sum: [result]
+Input used in test:
+4
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+Sum: 30
+Reason: 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30.

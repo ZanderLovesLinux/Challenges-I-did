@@ -1,0 +1,14 @@
+Instructions
+Read three numbers from input (three lines).
+
+Print them in ascending order (smallest first), separated by spaces, on one line.
+
+Input used in test:
+5
+1
+3
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+1 3 5
+Reason: Sorted from smallest to largest: 1, 3, 5.

@@ -1,0 +1,2 @@
+python sumofsquares.py
+pause

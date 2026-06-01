@@ -1,0 +1,21 @@
+Instructions
+Read an odd number N from input.
+
+Print a diamond shape made of * characters.
+
+The widest row has N stars. Use spaces to center each row.
+
+Do not print trailing spaces on any row.
+
+Input used in test:
+5
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+  *
+ ***
+*****
+ ***
+  *
+Reason: The diamond has 5 rows. Row 3 is widest with 5 stars.
+

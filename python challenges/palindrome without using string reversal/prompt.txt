@@ -1,0 +1,16 @@
+prompt:
+
+Instructions
+Read a word from input (all lowercase).
+
+Write a function that checks if the word is a palindrome (reads the same forwards and backwards).
+
+Print Yes or No.
+
+Input used in test:
+racecar
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+Yes
+Reason: "racecar" reversed is "racecar", so it is a palindrome.

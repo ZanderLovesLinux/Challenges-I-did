@@ -1,0 +1,2 @@
+python stars.py
+pause

@@ -1,0 +1,16 @@
+prompt:
+
+Instructions
+Read a positive number from input.
+
+Print Yes if it is a power of 2 (1, 2, 4, 8, 16, ...).
+
+Print No if it is not.
+
+Input used in test:
+16
+Important:
+To solve the problem your code has to return a correct result for other values as well. 
+Expected Output
+Yes
+Reason: 16 = 2 × 2 × 2 × 2, so it is a power of 2.
